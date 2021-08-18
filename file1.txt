@@ -1,1 +1,28 @@
-omg aliuensssz
+ok 
+
+git push origin -u to push
+
+do merge on the branch taht absorbs
+
+
+
+
+
+
+-------
+git remote add origin xxx
+git remote rm origin
+git remote show origin
+
+
+
+new is 
+git remote add origin URL
+git branch -M main
+git push -u origin main
+
+------
+
+git branch = shows branches
+git branch ______ = creates branch
+git checkout (this switches branches)
